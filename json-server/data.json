@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "张三",
+      "password": "a123",
+      "tel": "0123-1234567",
+      "sex": "男",
+      "age": 30,
+      "description": "hello"
+    },
+    {
+      "id": 2,
+      "username": "李四",
+      "password": "a123",
+      "tel": "0123-1234567",
+      "sex": "男",
+      "age": 31,
+      "description": "hello"
+    },
+    {
+      "id": 3,
+      "username": "王五",
+      "password": "a123",
+      "tel": "0123-1234567",
+      "sex": "男",
+      "age": 32,
+      "description": "hello"
+    },
+    {
+      "id": 4,
+      "username": "赵六",
+      "password": "a123",
+      "tel": "0123-1234567",
+      "sex": "男",
+      "age": 33,
+      "description": "hello"
+    },
+    {
+      "id": 5,
+      "username": "耿七",
+      "password": "a123",
+      "tel": "0123-1234567",
+      "sex": "男",
+      "age": 34,
+      "description": "hello"
+    },
+    {
+      "username": "1111",
+      "password": "1111",
+      "tel": "1111",
+      "age": "1111",
+      "sex": "男",
+      "description": "2222",
+      "id": 6
+    },
+    {
+      "username": "333",
+      "password": "333",
+      "tel": "333",
+      "age": "333",
+      "sex": "女",
+      "description": "这是demo",
+      "id": 7
+    }
+  ]
+}
