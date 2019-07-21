@@ -4,18 +4,7 @@
 主要包括查看添加用户，删除用户，查看用户，编辑用户等功能。**
 
 ## 技术架构
-
-技术名称 | 技术说明 |
-----|----|----
-Vue | 前端框架 |
-Vue-router | 路由框架 |
-Element | 前端UI框架 |
-axios | 前端HTTP框架 | 
-npm | 项目的包管理器 |
-sass | css预编译语言 |
-ES6 | 项目核心语法 |
-webpack | 工程化打包工具 |
-Vue-CLI | 项目脚手架 |
+Vue、Vue-router、Element、axios、npm、sass、ES6、webpack、Vue-CLI
 
 ## 项目结构
 ```
